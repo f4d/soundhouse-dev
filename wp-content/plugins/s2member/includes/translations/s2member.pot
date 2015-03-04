@@ -1,0 +1,2029 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  150203\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/s2member\n"
+"POT-Creation-Date: 2015-02-03 22:16:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/classes/brute-force.inc.php:90
+msgctxt "s2member-front"
+msgid "Max failed logins. Please wait %s and try again."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:338
+#: includes/classes/custom-reg-fields.inc.php:470
+#: includes/classes/profile-in.inc.php:116
+#: includes/classes/sc-profile-in.inc.php:134
+msgctxt "s2member-front"
+msgid "First Name"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:350
+#: includes/classes/custom-reg-fields.inc.php:485
+#: includes/classes/profile-in.inc.php:135
+#: includes/classes/sc-profile-in.inc.php:153
+msgctxt "s2member-front"
+msgid "Last Name"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:443
+#: includes/classes/custom-reg-fields.inc.php:448
+#: includes/classes/profile-in.inc.php:225
+#: includes/classes/profile-in.inc.php:231
+#: includes/classes/sc-profile-in.inc.php:243
+#: includes/classes/sc-profile-in.inc.php:249
+msgctxt "s2member-front"
+msgid "Please type your Password twice to confirm."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:444
+msgctxt "s2member-front"
+msgid "Password (please type it twice)"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:452
+#: includes/classes/profile-in.inc.php:235
+#: includes/classes/sc-profile-in.inc.php:253
+msgctxt "s2member-front"
+msgid "password strength indicator"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:597
+#: includes/classes/custom-reg-fields.inc.php:608
+msgctxt "s2member-front"
+msgid "Invalid data type. Expecting a string."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:603
+msgctxt "s2member-front"
+msgid "Invalid data type. Expecting an array."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:616
+#: includes/classes/custom-reg-fields.inc.php:647 includes/s2member-min.js:1
+#: includes/s2member.js:366
+msgctxt "s2member-front"
+msgid "This is a required field, please try again."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:622 includes/s2member-min.js:1
+#: includes/s2member.js:351
+msgctxt "s2member-front"
+msgid "Required. This box must be checked."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:627 includes/s2member-min.js:1
+#: includes/s2member.js:346
+msgctxt "s2member-front"
+msgid "Please check at least one of the boxes."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:632
+#: includes/classes/custom-reg-fields.inc.php:637 includes/s2member-min.js:1
+#: includes/s2member.js:357
+msgctxt "s2member-front"
+msgid "Please select one of the options."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:642 includes/s2member-min.js:1
+#: includes/s2member.js:362
+msgctxt "s2member-front"
+msgid "Please select at least one of the options."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:658 includes/s2member-min.js:1
+#: includes/s2member.js:372
+msgctxt "s2member-front"
+msgid "Must be numeric (with or without decimals, commas allowed)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:663 includes/s2member-min.js:1
+#: includes/s2member.js:376
+msgctxt "s2member-front"
+msgid "Must be numeric (with or without decimals, no commas)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:668 includes/s2member-min.js:1
+#: includes/s2member.js:380
+msgctxt "s2member-front"
+msgid "Must be an integer (a whole number, without any decimals)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:673
+msgctxt "s2member-front"
+msgid "Must be an integer &gt; 0 (whole number, no decimals, greater than 0)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:678 includes/s2member-min.js:1
+#: includes/s2member.js:388
+msgctxt "s2member-front"
+msgid "Must be a float (floating point number, decimals required)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:683
+msgctxt "s2member-front"
+msgid "Must be a float &gt; 0 (floating point number, decimals required, greater than 0)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:688 includes/s2member-min.js:1
+#: includes/s2member.js:396
+msgctxt "s2member-front"
+msgid "Must be a date (required date format: dd/mm/yyyy)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:693 includes/s2member-min.js:1
+#: includes/s2member.js:400
+msgctxt "s2member-front"
+msgid "Must be a valid email address."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:696
+msgctxt "s2member-front"
+msgid "Please use a personal email address. Addresses like &lt;%s@&gt; are problematic."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:701 includes/s2member-min.js:1
+#: includes/s2member.js:408
+msgctxt "s2member-front"
+msgid "Must be a full URL (starting with http or https)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:706 includes/s2member-min.js:1
+#: includes/s2member.js:412
+msgctxt "s2member-front"
+msgid "Must be a domain name (domain name only, without http)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:711 includes/s2member-min.js:1
+#: includes/s2member.js:416
+msgctxt "s2member-front"
+msgid "Must be a phone # (10 digits w/possible hyphens, spaces, brackets)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:716 includes/s2member-min.js:1
+#: includes/s2member.js:420
+msgctxt "s2member-front"
+msgid "Must be a US zipcode (5-9 digits w/ possible hyphen)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:721
+msgctxt "s2member-front"
+msgid "Must be a Canadian zipcode (6 alpha-numerics w/ possible space)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:726 includes/s2member-min.js:1
+#: includes/s2member.js:428
+msgctxt "s2member-front"
+msgid "Must be a zipcode (either a US or Canadian zipcode)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:732
+msgctxt "s2member-front"
+msgid "Please use alphanumerics, spaces &amp; punctuation only."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:735
+msgctxt "s2member-front"
+msgid "Please use alphanumerics &amp; spaces only."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:738
+msgctxt "s2member-front"
+msgid "Please use alphanumerics &amp; punctuation only (no spaces)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:741 includes/s2member-min.js:1
+#: includes/s2member.js:444
+msgctxt "s2member-front"
+msgid "Please use alphanumerics only (no spaces/punctuation)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:744 includes/s2member-min.js:1
+#: includes/s2member.js:448
+msgctxt "s2member-front"
+msgid "Please use alphabetics only (no digits/spaces/punctuation)."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:747 includes/s2member-min.js:1
+#: includes/s2member.js:452
+msgctxt "s2member-front"
+msgid "Please use numeric digits only."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:760
+#: includes/classes/custom-reg-fields.inc.php:774 includes/s2member-min.js:1
+#: includes/s2member.js:459 includes/s2member.js:462
+msgctxt "s2member-front"
+msgid "digit"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:761
+#: includes/classes/custom-reg-fields.inc.php:775 includes/s2member-min.js:1
+#: includes/s2member.js:459 includes/s2member.js:462
+msgctxt "s2member-front"
+msgid "digits"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:764
+#: includes/classes/custom-reg-fields.inc.php:778 includes/s2member-min.js:1
+#: includes/s2member.js:459 includes/s2member.js:462
+msgctxt "s2member-front"
+msgid "character"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:765
+#: includes/classes/custom-reg-fields.inc.php:779 includes/s2member-min.js:1
+#: includes/s2member.js:459 includes/s2member.js:462
+msgctxt "s2member-front"
+msgid "characters"
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:767 includes/s2member-min.js:1
+#: includes/s2member.js:459
+msgctxt "s2member-front"
+msgid "Must be exactly %s %s."
+msgstr ""
+
+#: includes/classes/custom-reg-fields.inc.php:781 includes/s2member-min.js:1
+#: includes/s2member.js:462
+msgctxt "s2member-front"
+msgid "Must be at least %s %s."
+msgstr ""
+
+#: includes/classes/email-configs.inc.php:150
+msgctxt "s2member-front"
+msgid "as a Member"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:112 includes/classes/files-in.inc.php:265
+msgctxt "s2member-front"
+msgid "<strong>404: Sorry, file not found.</strong> Please contact Support for assistance."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:123
+msgctxt "s2member-front"
+msgid "<strong>503 (Invalid Key):</strong> Sorry, your access to this file has expired. Please contact Support for assistance."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:144
+msgctxt "s2member-front"
+msgid "<strong>503: Basic File Downloads are NOT enabled yet.</strong> Please contact Support for assistance. If you are the site owner, please configure: <code>s2Member -› General Options -› Membership Options Page</code>."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:155
+msgctxt "s2member-front"
+msgid "<strong>503: Basic File Downloads are NOT enabled yet.</strong> Please contact Support for assistance. If you are the site owner, please configure: <code>s2Member -› Download Options -› Basic Download Restrictions</code>."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:496
+msgctxt "s2member-front"
+msgid "<strong>503: Access denied.</strong> Invalid File Download specs."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:592
+msgctxt "s2member-front"
+msgid "Members Only"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:598
+msgctxt "s2member-front"
+msgid "<strong>401:</strong> Sorry, access denied."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon S3 API call. Feel free to exclude `%s`
+#. if you like.
+#: includes/classes/files-in.inc.php:905
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 Cross-Domain Policy. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:908
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 Cross-Domain Policy. Connection failed."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon S3 API call. Feel free to exclude `%s`
+#. if you like.
+#: includes/classes/files-in.inc.php:912
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 Bucket Policy. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:915
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 Bucket Policy. Connection failed."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon S3 API call. Feel free to exclude `%s`
+#. if you like.
+#: includes/classes/files-in.inc.php:919
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 Bucket ACLs. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:922
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 Bucket ACLs. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:925
+msgctxt "s2member-admin"
+msgid "Unable to acquire/read existing Amazon S3 Bucket ACLs. Unexpected response."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon S3 API call. Feel free to exclude `%s`
+#. if you like.
+#: includes/classes/files-in.inc.php:929
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon S3 Bucket ACLs. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:932
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon S3 Bucket ACLs. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:935
+msgctxt "s2member-admin"
+msgid "Unable to auto-configure existing Amazon S3 Bucket ACLs. Incomplete Amazon S3 configuration options. Missing one of: Amazon S3 Bucket, Access Key, or Secret Key."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1042
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Downloads Distro. Still in a `pending` state. Please wait 15 minutes, then try again. There is a certain process that s2Member must strictly adhere to when re-configuring your Amazon CloudFront Distros. You may have to tick the auto-configure checkbox again, and re-run s2Member's auto-configuration routine many times, because s2Member will likely run into several `pending` challenges, as it works to completely re-configure your Amazon CloudFront Distros for you. Thanks for your patience. Please wait 15 minutes, then try again."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1049
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Downloads Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1061
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Streaming Distro. Still in a `pending` state. Please wait 15 minutes, then try again. There is a certain process that s2Member must strictly adhere to when re-configuring your Amazon CloudFront Distros. You may have to tick the auto-configure checkbox again, and re-run s2Member's auto-configuration routine many times, because s2Member will likely run into several `pending` challenges, as it works to completely re-configure your Amazon CloudFront Distros for you. Thanks for your patience. Please wait 15 minutes, then try again."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1068
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Streaming Distro. %s"
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1084
+#: includes/classes/files-in.inc.php:1272
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Origin Access Identity. %s"
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon S3 API call. Feel free to exclude `%s`
+#. if you like.
+#: includes/classes/files-in.inc.php:1125
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 ACLs. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1128
+msgctxt "s2member-admin"
+msgid "Unable to update existing Amazon S3 ACLs. Connection failed."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1132
+#: includes/classes/files-in.inc.php:1567
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Streaming Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1135
+#: includes/classes/files-in.inc.php:1570
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Streaming Distro. Connection failed."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1139
+#: includes/classes/files-in.inc.php:1545
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Downloads Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1142
+#: includes/classes/files-in.inc.php:1548
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Downloads Distro. Connection failed."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1146
+#: includes/classes/files-in.inc.php:1318
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Origin Access Identity. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1149
+#: includes/classes/files-in.inc.php:1321
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Origin Access Identity. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1152
+msgctxt "s2member-admin"
+msgid "Unable to clear existing Amazon CloudFront Origin Access Identity."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1156
+#: includes/classes/files-in.inc.php:1227
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Origin Access Identity. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1159
+#: includes/classes/files-in.inc.php:1230
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Origin Access Identity. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1162
+msgctxt "s2member-admin"
+msgid "Unable to clear existing Amazon CloudFront Streaming Distro."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1166
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Streaming Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1169
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Streaming Distro. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1172
+msgctxt "s2member-admin"
+msgid "Unable to clear existing Amazon CloudFront Downloads Distro."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1176
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Downloads Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1179
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Downloads Distro. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1182
+msgctxt "s2member-admin"
+msgid "Unable to auto-configure Amazon CloudFront Distros. Incomplete Amazon CloudFront configuration options. Missing of one: Amazon CloudFront Private Key-Pair-ID, or Private Key file contents."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1185
+msgctxt "s2member-admin"
+msgid "Unable to auto-configure Amazon S3/CloudFront Distros. Incomplete Amazon S3 configuration options. Missing one of: Amazon S3 Bucket, Access Key, or Secret Key. You must provide s2Member with an Amazon S3 configuration before enabling CloudFront."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1223
+msgctxt "s2member-admin"
+msgid "Existing Amazon CloudFront Origin Access Identity NOT found. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1233
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Origin Access Identity. Invalid Access ID."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1275
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Origin Access Identity. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1278
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Origin Access Identity. Invalid Access ID, ETag, or XML config."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1305
+#: includes/classes/files-in.inc.php:1532
+#: includes/classes/files-in.inc.php:1554
+msgctxt "s2member-admin"
+msgid "Created by s2Member, for S3 Bucket: %s."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1314
+msgctxt "s2member-admin"
+msgid "Unable to create/read Amazon CloudFront Origin Access Identity. Unexpected response."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1360
+msgctxt "s2member-admin"
+msgid "Existing Amazon CloudFront Distro NOT found. %s"
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1364
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1367
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Distro. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1370
+msgctxt "s2member-admin"
+msgid "Unable to acquire existing Amazon CloudFront Distro. Invalid Distro ID and/or Distro type."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1414
+#: includes/classes/files-in.inc.php:1489
+msgctxt "s2member-admin"
+msgid "Unable to disable existing Amazon CloudFront Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1417
+#: includes/classes/files-in.inc.php:1492
+msgctxt "s2member-admin"
+msgid "Unable to disable existing Amazon CloudFront Distro. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1420
+msgctxt "s2member-admin"
+msgid "Existing Amazon CloudFront Distro cannot be disabled at this time. Still in a `pending` state. Please wait 15 minutes, then try again. There is a certain process that s2Member must strictly adhere to when re-configuring your Amazon CloudFront Distros. You may have to tick the auto-configure checkbox again, and re-run s2Member's auto-configuration routine many times, because s2Member will likely run into several `pending` challenges, as it works to completely re-configure your Amazon CloudFront Distros for you. Thanks for your patience. Please wait 15 minutes, then try again."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1426
+msgctxt "s2member-admin"
+msgid "Unable to disable existing Amazon CloudFront Distro. Invalid Distro ID, ETag, or XML config."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1471
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1474
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Distro. Connection failed."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1478
+msgctxt "s2member-admin"
+msgid "Existing Amazon CloudFront Distro cannot be deleted at this time. Still in a `pending` state after having been disabled by s2Member. Please wait 15 minutes, then try again. There is a certain process that s2Member must strictly adhere to when re-configuring your Amazon CloudFront Distros. You may have to tick the auto-configure checkbox again, and re-run s2Member's auto-configuration routine many times, because s2Member will likely run into several `pending` challenges, as it works to completely re-configure your Amazon CloudFront Distros for you. Thanks for your patience. Please wait 15 minutes, then try again."
+msgstr ""
+
+#. translators: In this translation, `%s` may be filled with an English
+#. message, which comes from the Amazon CloudFront API call. Feel free to
+#. exclude `%s` if you like.
+#: includes/classes/files-in.inc.php:1482
+msgctxt "s2member-admin"
+msgid "Unable to check status of existing Amazon CloudFront Distro. %s"
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1485
+msgctxt "s2member-admin"
+msgid "Unable to check status of existing Amazon CloudFront Distro. Connection failed."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1495
+msgctxt "s2member-admin"
+msgid "Existing Amazon CloudFront Distro cannot be deleted at this time. Still in a `pending` state. Please wait 15 minutes, then try again. There is a certain process that s2Member must strictly adhere to when re-configuring your Amazon CloudFront Distros. You may have to tick the auto-configure checkbox again, and re-run s2Member's auto-configuration routine many times, because s2Member will likely run into several `pending` challenges, as it works to completely re-configure your Amazon CloudFront Distros for you. Thanks for your patience. Please wait 15 minutes, then try again."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1498
+msgctxt "s2member-admin"
+msgid "Unable to delete existing Amazon CloudFront Distro. Invalid Distro ID or ETag."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1541
+msgctxt "s2member-admin"
+msgid "Unable to create/read Amazon CloudFront Downloads Distro. Unexpected response."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1563
+msgctxt "s2member-admin"
+msgid "Unable to create/read Amazon CloudFront Streaming Distro. Unexpected response."
+msgstr ""
+
+#: includes/classes/files-in.inc.php:1574
+msgctxt "s2member-admin"
+msgid "Unable to create Amazon CloudFront Distro. Invalid Distro type."
+msgstr ""
+
+#: includes/classes/login-checks.inc.php:51
+msgctxt "s2member-front"
+msgid "<strong>ERROR</strong>: Invalid username for this site."
+msgstr ""
+
+#: includes/classes/login-checks.inc.php:78
+msgctxt "s2member-front"
+msgid "<strong>ERROR</strong>: Max simultaneous logins for username: %1$s. Please wait %2$s and try again."
+msgstr ""
+
+#: includes/classes/paypal-return-in-no-tx-data.inc.php:66
+#: includes/classes/paypal-return-in-proxy-ty-email.inc.php:64
+msgctxt "s2member-front"
+msgid "<strong>Thank you! (you MUST check your email before proceeding).</strong><br /><br />* Note: It can take <em>(up to 15 minutes)</em> for Email Confirmation with important details. If you don't receive email confirmation in the next 15 minutes, please contact Support."
+msgstr ""
+
+#: includes/classes/paypal-return-in-no-tx-data.inc.php:66
+#: includes/classes/paypal-return-in-proxy-ty-email.inc.php:64
+msgctxt "s2member-front"
+msgid "<strong>** Sandbox Mode **</strong> You may NOT receive this Email in Sandbox Mode. Sandbox addresses are usually bogus (for testing)."
+msgstr ""
+
+#: includes/classes/paypal-return-in-no-tx-data.inc.php:67
+#: includes/classes/paypal-return-in-proxy-ty-email.inc.php:65
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:207
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:218
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:261
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:272
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:163
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:174
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:185
+#: includes/classes/paypal-return-in-web-accept-sp.inc.php:126
+#: includes/classes/paypal-return-in.inc.php:95
+#: includes/classes/paypal-return-in.inc.php:111
+#: includes/classes/paypal-return-in.inc.php:137
+msgctxt "s2member-front"
+msgid "Back To Home Page"
+msgstr ""
+
+#: includes/classes/paypal-return-in-proxy-x-preview.inc.php:64
+msgctxt "s2member-front"
+msgid "<strong>Thank you! (this is a preview, no action necessary).</strong><br /><br />* Note: each of your Customers are returned back to your site immediately after they complete checkout. This Return Page displays a message and instructions for the Customer. s2Member may change the message and instructions dynamically, based on what the Customer is actually doing <em>(i.e. based on the type of transaction that is taking place)</em>.<br /><br /><em>* With <a href=\"%s\" target=\"_blank\">s2Member Pro</a> installed, it is possible to customize this Return Page in various ways.</em>"
+msgstr ""
+
+#: includes/classes/paypal-return-in-proxy-x-preview.inc.php:65
+#: includes/classes/paypal-return-in-web-accept-sp.inc.php:115
+msgctxt "s2member-front"
+msgid "Continue (Click Here)"
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:195
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:249
+msgctxt "s2member-front"
+msgid "Thank you! You've been updated to:"
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:196
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:250
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:152
+msgctxt "s2member-front"
+msgid "Please Log Back In (Click Here)"
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:206
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:260
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to modify Subscription.<br />Please contact Support for assistance.<br /><br />The existing User ID is associated with an Administrator. Stopping here. Otherwise, an Administrator could lose access. Please make sure that you are NOT logged in as an Administrator while testing."
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:217
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:271
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to modify Subscription.<br />Please contact Support for assistance.<br /><br />Could not get the existing User ID from the DB."
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:228
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:383
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:195
+#: includes/classes/paypal-return-in-web-accept-sp.inc.php:136
+msgctxt "s2member-front"
+msgid "Thank you! Please check your email for further details regarding your purchase."
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-modify-w-level.inc.php:229
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:384
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:196
+#: includes/classes/paypal-return-in-web-accept-sp.inc.php:137
+msgctxt "s2member-front"
+msgid "Return to Home Page"
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:344
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:367
+msgctxt "s2member-front"
+msgid "<strong>Thank you! Your account has been approved.<br />The next step is to Register a Username for immediate access.</strong>"
+msgstr ""
+
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:345
+#: includes/classes/paypal-return-in-subscr-or-wa-w-level.inc.php:368
+msgctxt "s2member-front"
+msgid "Please Register Now (Click Here)"
+msgstr ""
+
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:151
+msgctxt "s2member-front"
+msgid "Thank you! You now have access to:"
+msgstr ""
+
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:162
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to add new Capabilities.<br />Please contact Support for assistance.<br /><br />The existing User ID is associated with an Administrator. Stopping here. Otherwise, an Administrator could lose access. Please make sure that you are NOT logged in as an Administrator while testing."
+msgstr ""
+
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:173
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to add new Capabilities.<br />Please contact Support for assistance.<br /><br />Could not get the existing User ID from the DB."
+msgstr ""
+
+#: includes/classes/paypal-return-in-wa-ccaps-wo-level.inc.php:184
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to add new Capabilities.<br />Please contact Support for assistance.<br /><br />Missing User/Member details."
+msgstr ""
+
+#: includes/classes/paypal-return-in-web-accept-sp.inc.php:114
+msgctxt "s2member-front"
+msgid "<strong>Thank You! Your transaction has been approved.</strong>"
+msgstr ""
+
+#: includes/classes/paypal-return-in-web-accept-sp.inc.php:125
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to generate Access Link.<br />Please contact Support for assistance."
+msgstr ""
+
+#: includes/classes/paypal-return-in.inc.php:94
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unexpected <code>txn_type/status</code>.<br />The <code>txn_type/status</code> did not meet requirements.<br />Please contact Support for assistance."
+msgstr ""
+
+#: includes/classes/paypal-return-in.inc.php:110
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to verify <code>$_SERVER[\"HTTP_HOST\"]</code>.<br />Please contact Support for assistance.<br /><br />If you are the site owner, please check the <code>custom</code> value in your Button Code. It MUST start with your domain name."
+msgstr ""
+
+#: includes/classes/paypal-return-in.inc.php:136
+msgctxt "s2member-front"
+msgid "<strong>ERROR:</strong> Unable to verify <code>$_POST</code> vars.<br />Please contact Support for assistance.<br /><br />This is most likely related to an invalid configuration of s2Member, or a problem with server compatibility. If you are the site owner, and you're absolutely SURE that your configuration is valid, you may want to run some tests on your server, just to be sure <code>$_POST</code> variables are populated, and that your server is able to connect/communicate with your Payment Gateway over an HTTPS connection.<br /><br />s2Member uses the <code>WP_Http</code> class for remote connections; which will try to use <code>cURL</code> first, and then fall back on the <code>FOPEN</code> method when <code>cURL</code> is not available. On a Windows server, you may have to disable your <code>cURL</code> extension; and instead, set <code>allow_url_fopen = yes</code> in your php.ini file. The <code>cURL</code> extension (usually) does NOT support SSL connections on a Windows server.<br /><br />Please see <a href=\"http://www.s2member.com/forums/topic/ideal-server-configuration-for-s2member/\" target=\"_blank\">this thread</a> for details regarding the ideal server configuration for s2Member."
+msgstr ""
+
+#. translators: Exclude `%2$s` and `%3$s`. These are English details returned
+#. by PayPal. Replace `%2$s` and `%3$s` with: `Unable to process, please try
+#. again`, or something to that affect. Or, if you prefer, you could Filter
+#. ``$response["__error"]`` with `ws_plugin__s2member_paypal_api_response`.
+#: includes/classes/paypal-utilities.inc.php:185
+msgctxt "s2member-front"
+msgid "Error #%1$s. %2$s. %3$s."
+msgstr ""
+
+#: includes/classes/paypal-utilities.inc.php:188
+#: includes/classes/paypal-utilities.inc.php:316
+#: includes/classes/paypal-utilities.inc.php:324
+msgctxt "s2member-front"
+msgid "Error. Please contact Support for assistance."
+msgstr ""
+
+#: includes/classes/paypal-utilities.inc.php:232
+#: includes/classes/paypal-utilities.inc.php:238
+msgctxt "s2member-front"
+msgid "Error #%s. Transaction declined. Please use an alternate funding source."
+msgstr ""
+
+#: includes/classes/paypal-utilities.inc.php:235
+msgctxt "s2member-front"
+msgid "Error #%s. Transaction declined. Express Checkout was NOT confirmed."
+msgstr ""
+
+#. translators: Exclude `%2$s`. These are English details returned by PayPal.
+#. Replace `%2$s` with: `Unable to process, please try again`, or something to
+#. that affect. Or, if you prefer, you could Filter ``$response["__error"]``
+#. with `ws_plugin__s2member_paypal_payflow_api_response`.
+#: includes/classes/paypal-utilities.inc.php:314
+#: includes/classes/paypal-utilities.inc.php:322
+msgctxt "s2member-front"
+msgid "Error #%1$s. %2$s."
+msgstr ""
+
+#: includes/classes/paypal-utilities.inc.php:369
+msgctxt "s2member-front"
+msgid " Please contact PayPal Merchant Technical Support (www.paypal.com/mts) and request `Recurring Billing` service, and also ask to have `Reference Transactions` enabled for Recurring Billing via Express Checkout."
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:76
+#: includes/classes/sc-profile-in.inc.php:94
+msgctxt "s2member-front"
+msgid "Username"
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:76
+#: includes/classes/sc-profile-in.inc.php:94
+msgctxt "s2member-front"
+msgid "(cannot be changed)"
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:95
+#: includes/classes/sc-profile-in.inc.php:113
+msgctxt "s2member-front"
+msgid "Email Address"
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:154
+#: includes/classes/sc-profile-in.inc.php:172
+msgctxt "s2member-front"
+msgid "Display Name"
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:226
+#: includes/classes/sc-profile-in.inc.php:244
+msgctxt "s2member-front"
+msgid "New Password?"
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:226
+#: includes/classes/sc-profile-in.inc.php:244
+msgctxt "s2member-front"
+msgid "(please type it twice)"
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:227
+#: includes/classes/sc-profile-in.inc.php:245
+msgctxt "s2member-front"
+msgid "Only if changing password, otherwise leave blank."
+msgstr ""
+
+#: includes/classes/profile-in.inc.php:272
+#: includes/classes/sc-profile-in.inc.php:291
+msgctxt "s2member-front"
+msgid "Save All Changes"
+msgstr ""
+
+#: includes/classes/profile-mods-in.inc.php:149
+#: includes/classes/profile-mods-in.inc.php:150
+#: includes/classes/profile-mods-in.inc.php:151
+#: includes/classes/sc-profile-in.inc.php:71
+msgctxt "s2member-front"
+msgid "Profile updated successfully."
+msgstr ""
+
+#: includes/classes/register-in.inc.php:48
+#: includes/classes/sp-access.inc.php:132
+msgctxt "s2member-front"
+msgid "<strong>Your Link Expired:</strong><br />Please contact Support if you need assistance."
+msgstr ""
+
+#: includes/classes/registrations.inc.php:579
+msgctxt "s2member-front"
+msgid "s2Member security violation. You attempted to POST administrative variables that will NOT be trusted in a NON-administrative zone!"
+msgstr ""
+
+#: includes/classes/return-templates.inc.php:51
+msgctxt "s2member-front"
+msgid "Continue"
+msgstr ""
+
+#: includes/classes/return-templates.inc.php:52
+msgctxt "s2member-front"
+msgid "Thank you. Please click the link below."
+msgstr ""
+
+#: includes/classes/return-templates.inc.php:70
+msgctxt "s2member-front"
+msgid "[ %s ] <strong><em>says&hellip;</em></strong>"
+msgstr ""
+
+#: includes/classes/return-templates.inc.php:74
+msgctxt "s2member-front"
+msgid "If you need assistance, please <a href=\"%s\" target=\"_blank\">contact support</a>."
+msgstr ""
+
+#: includes/classes/sc-paypal-button-e.inc.php:77
+#: includes/classes/sc-paypal-button-in.inc.php:73
+#: includes/classes/sc-paypal-button-in.inc.php:97
+#: includes/classes/sc-paypal-button-in.inc.php:152
+#: includes/classes/sc-paypal-button-in.inc.php:208
+#: includes/templates/buttons/paypal-cancellation-button.php:7
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:34
+#: includes/templates/buttons/paypal-checkout-button.php:46
+#: includes/templates/buttons/paypal-sp-checkout-button.php:34
+msgctxt "s2member-front paypal-button-lang-code"
+msgid "en_US"
+msgstr ""
+
+#: includes/classes/translations.inc.php:80
+msgctxt "s2member-front"
+msgid "Username:"
+msgstr ""
+
+#: includes/classes/translations.inc.php:84
+msgctxt "s2member-front"
+msgid "My Password:"
+msgstr ""
+
+#: includes/classes/translations.inc.php:91
+msgctxt "s2member-front"
+msgid "Username *"
+msgstr ""
+
+#: includes/classes/translations.inc.php:95
+msgctxt "s2member-front"
+msgid "Password *"
+msgstr ""
+
+#: includes/classes/translations.inc.php:99
+msgctxt "s2member-front"
+msgid "Email Address *"
+msgstr ""
+
+#: includes/classes/translations.inc.php:106
+msgctxt "s2member-front"
+msgid "Registration complete. Please log in."
+msgstr ""
+
+#: includes/classes/translations.inc.php:113
+msgctxt "s2member-front"
+msgid ""
+"You have been invited to join `%1$s` at\n"
+"%2$s as a Member.\n"
+"Please click the following link to confirm the invite:\n"
+"%4$s\n"
+msgstr ""
+
+#: includes/classes/translations.inc.php:120
+msgctxt "s2member-front"
+msgid "Your account is now active. <a href=\"%1$s\">Visit site</a> or <a href=\"%2$s\">Log in</a>."
+msgstr ""
+
+#: includes/classes/translations.inc.php:140
+#: includes/classes/translations.inc.php:161
+msgctxt "s2member-front"
+msgid "By filling out the form below, you can <strong>add a site to your account</strong>."
+msgstr ""
+
+#: includes/classes/translations.inc.php:140
+msgctxt "s2member-front"
+msgid "You may create <strong>%s</strong> site."
+msgid_plural "You may create up to <strong>%s</strong> sites."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/translations.inc.php:161
+msgctxt "s2member-front"
+msgid "You may create up to <strong>%s</strong> site."
+msgid_plural "You may create up to <strong>%s</strong> sites."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/users-list-in.inc.php:349
+msgctxt "s2member-front"
+msgid "Additional Profile Fields"
+msgstr ""
+
+#: includes/classes/users-list-in.inc.php:349
+msgctxt "s2member-front"
+msgid "(for this site)"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:55
+msgctxt "s2member-front"
+msgid "less than a minute"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:56
+msgctxt "s2member-front"
+msgid "1 minute"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:57
+msgctxt "s2member-front"
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:58
+msgctxt "s2member-front"
+msgid "about 1 hour"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:64
+msgctxt "s2member-front"
+msgid "1 hour"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:65
+msgctxt "s2member-front"
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:66
+msgctxt "s2member-front"
+msgid "about 1 day"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:72
+msgctxt "s2member-front"
+msgid "1 day"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:73
+msgctxt "s2member-front"
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:74
+msgctxt "s2member-front"
+msgid "about 1 week"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:80
+msgctxt "s2member-front"
+msgid "1 week"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:81
+msgctxt "s2member-front"
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:82
+msgctxt "s2member-front"
+msgid "about 1 month"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:88
+msgctxt "s2member-front"
+msgid "1 month"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:89
+msgctxt "s2member-front"
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:90
+msgctxt "s2member-front"
+msgid "about 1 year"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:96
+msgctxt "s2member-front"
+msgid "1 year"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:97
+msgctxt "s2member-front"
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:241
+msgctxt "s2member-front"
+msgid "Daily"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:241
+msgctxt "s2member-front"
+msgid "Weekly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:241
+msgctxt "s2member-front"
+msgid "Monthly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:241
+msgctxt "s2member-front"
+msgid "Yearly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:241
+#: includes/classes/utils-time.inc.php:252
+msgctxt "s2member-front"
+msgid "Lifetime"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:245
+msgctxt "s2member-front"
+msgid "Bi-Weekly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:246
+msgctxt "s2member-front"
+msgid "Bi-Monthly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:247
+msgctxt "s2member-front"
+msgid "Quarterly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:248
+msgctxt "s2member-front"
+msgid "Semi-Yearly"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:252
+msgctxt "s2member-front"
+msgid "Day"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:252
+msgctxt "s2member-front"
+msgid "Week"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:252
+msgctxt "s2member-front"
+msgid "Month"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:252
+msgctxt "s2member-front"
+msgid "Year"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:258
+msgctxt "s2member-front"
+msgid "Days"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:258
+msgctxt "s2member-front"
+msgid "Weeks"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:258
+msgctxt "s2member-front"
+msgid "Months"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:258
+msgctxt "s2member-front"
+msgid "Years"
+msgstr ""
+
+#: includes/classes/utils-time.inc.php:258
+msgctxt "s2member-front"
+msgid "Lifetimes"
+msgstr ""
+
+#. translators: Each cycle ( i.e. `each day/week/month` or `every 2
+#. days/weeks/months`, etc. ). Cycles are translated elsewhere.
+#: includes/classes/utils-time.inc.php:295
+#: includes/classes/utils-time.inc.php:338
+msgctxt "s2member-front"
+msgid "each %2$s"
+msgid_plural "every %1$s %3$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/utils-time.inc.php:298
+msgctxt "s2member-front"
+msgid "lifetime"
+msgstr ""
+
+#. translators: Membership cycle ( i.e. `1 day/week/month` or `2
+#. days/weeks/months`, etc. ). Most of this is translated elsewhere.
+#: includes/classes/utils-time.inc.php:302
+msgctxt "s2member-front"
+msgid "%1$s %2$s"
+msgid_plural "%1$s %3$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: Cycle ( i.e. `for 1 day/week/month` or `for 2
+#. days/weeks/months`, etc. ). Most of this is translated elsewhere.
+#: includes/classes/utils-time.inc.php:345
+msgctxt "s2member-front"
+msgid "for %1$s %2$s"
+msgid_plural "for %1$s %3$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:35
+msgctxt "s2member-front"
+msgid "— Confirm File Download —"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:36
+msgctxt "s2member-front"
+msgid "You`ve downloaded %s protected %s in the last %s."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:36
+msgctxt "s2member-front"
+msgid "file"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:36
+msgctxt "s2member-front"
+msgid "files"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:36
+msgctxt "s2member-front"
+msgid "24 hours"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:36
+msgctxt "s2member-front"
+msgid "%s days"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:37
+msgctxt "s2member-front"
+msgid "You`re entitled to UNLIMITED downloads though (so, no worries)."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:37
+msgctxt "s2member-front"
+msgid "You`re entitled to %s unique %s %s."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:37
+msgctxt "s2member-front"
+msgid "download"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:37
+msgctxt "s2member-front"
+msgid "downloads"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:37
+msgctxt "s2member-front"
+msgid "each day"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:37
+msgctxt "s2member-front"
+msgid "every %s-day period"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:84 includes/s2member.js:89
+#: includes/s2member.js:94 includes/s2member.js:125 includes/s2member.js:180
+#: includes/s2member.js:185 includes/s2member.js:190 includes/s2member.js:219
+#: includes/s2member.js:248 includes/s2member.js:273
+msgctxt "s2member-front"
+msgid "— Oops, you missed something: —"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:89 includes/s2member.js:185
+msgctxt "s2member-front"
+msgid "Passwords do not match up. Please try again."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:94 includes/s2member.js:190
+msgctxt "s2member-front"
+msgid "Password MUST be at least 6 characters. Please try again."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:313
+msgctxt "s2member-front"
+msgid "Strength indicator"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:314
+msgctxt "s2member-front"
+msgid "Very weak"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:315
+msgctxt "s2member-front"
+msgid "Weak"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:316
+msgctxt "s2member-front"
+msgid "Medium"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:317
+msgctxt "s2member-front"
+msgid "Strong"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:318
+msgctxt "s2member-front"
+msgid "Mismatch"
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:384
+msgctxt "s2member-front"
+msgid "Must be an integer > 0 (whole number, no decimals, greater than 0)."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:392
+msgctxt "s2member-front"
+msgid "Must be a float > 0 (floating point number, decimals required, greater than 0)."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:404
+msgctxt "s2member-front"
+msgid ""
+"Please use a personal email address.\n"
+"Addresses like <%s@> are problematic."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:424
+msgctxt "s2member-front"
+msgid "Must be a Canadian zipcode (6 alpha-numerics w/possible space)."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:432
+msgctxt "s2member-front"
+msgid "Please use alphanumerics, spaces & punctuation only."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:436
+msgctxt "s2member-front"
+msgid "Please use alphanumerics & spaces only."
+msgstr ""
+
+#: includes/s2member-min.js:1 includes/s2member.js:440
+msgctxt "s2member-front"
+msgid "Please use alphanumerics & punctuation only (no spaces)."
+msgstr ""
+
+#: includes/syscon.inc.php:84
+msgctxt "s2member-front recaptcha-lang-code"
+msgid "en"
+msgstr ""
+
+#: includes/syscon.inc.php:154
+msgctxt "s2member-front"
+msgid "Yes, I want to receive updates via email."
+msgstr ""
+
+#: includes/syscon.inc.php:210
+msgctxt "s2member-front"
+msgid "[%s] Username/Password"
+msgstr ""
+
+#: includes/syscon.inc.php:211
+msgctxt "s2member-front"
+msgid ""
+"Your Username/Password for:\n"
+"%s\n"
+"\n"
+"Username: %%%%user_login%%%%\n"
+"Password: %%%%user_pass%%%%\n"
+"%%%%wp_login_url%%%%"
+msgstr ""
+
+#: includes/syscon.inc.php:214
+msgctxt "s2member-front"
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/syscon.inc.php:215
+msgctxt "s2member-front"
+msgid ""
+"New User Registration on your site:\n"
+"%s\n"
+"\n"
+"User ID: %%%%user_id%%%%\n"
+"Username: %%%%user_login%%%%\n"
+"Email: %%%%user_email%%%%\n"
+"IP Address: %%%%user_ip%%%%"
+msgstr ""
+
+#: includes/syscon.inc.php:237
+msgctxt "s2member-front"
+msgid "Congratulations! (your membership has been approved)"
+msgstr ""
+
+#: includes/syscon.inc.php:238
+msgctxt "s2member-front"
+msgid ""
+"Thanks %%%%first_name%%%%! Your membership has been approved.\n"
+"\n"
+"If you haven't already done so, the next step is to Register a Username.\n"
+"\n"
+"Complete your registration here:\n"
+"%%%%registration_url%%%%\n"
+"\n"
+"If you have any trouble, please feel free to contact us.\n"
+"\n"
+"Best Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/syscon.inc.php:241 includes/syscon.inc.php:245
+msgctxt "s2member-front"
+msgid "Thank you! Your account has been updated."
+msgstr ""
+
+#: includes/syscon.inc.php:242 includes/syscon.inc.php:246
+msgctxt "s2member-front"
+msgid ""
+"Thanks %%%%first_name%%%%! Your account now has access to: %%%%item_name%%%%.\n"
+"\n"
+"If you have any trouble, please feel free to contact us.\n"
+"\n"
+"Best Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/syscon.inc.php:249
+msgctxt "s2member-front"
+msgid "Thank You! (instructions for access)"
+msgstr ""
+
+#: includes/syscon.inc.php:250
+msgctxt "s2member-front"
+msgid ""
+"Thanks %%%%first_name%%%%!\n"
+"\n"
+"%%%%item_name%%%%\n"
+"\n"
+"Your order can be retrieved here:\n"
+"%%%%sp_access_url%%%%\n"
+"(link expires in %%%%sp_access_exp%%%%)\n"
+"\n"
+"If you have any trouble, please feel free to contact us.\n"
+"\n"
+"Best Regards,\n"
+"%s"
+msgstr ""
+
+#: includes/syscon.inc.php:289
+msgctxt "s2member-front"
+msgid "Free Subscriber"
+msgstr ""
+
+#: includes/syscon.inc.php:289
+msgctxt "s2member-front"
+msgid "Bronze Member"
+msgstr ""
+
+#: includes/syscon.inc.php:289
+msgctxt "s2member-front"
+msgid "Silver Member"
+msgstr ""
+
+#: includes/syscon.inc.php:289
+msgctxt "s2member-front"
+msgid "Gold Member"
+msgstr ""
+
+#: includes/syscon.inc.php:289
+msgctxt "s2member-front"
+msgid "Platinum Member"
+msgstr ""
+
+#: includes/syscon.inc.php:289
+msgctxt "s2member-front"
+msgid "Level %s Member"
+msgstr ""
+
+#: includes/templates/badges/s-badge.php:22
+msgctxt "s2member-front"
+msgid "s2Member&reg; ( Security for WordPress&reg; )"
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:9
+#: includes/templates/buttons/paypal-checkout-button.php:9
+#: includes/templates/buttons/paypal-sp-checkout-button.php:9
+msgctxt "s2member-admin"
+msgid "Instant Payment Notification & Return Page Details"
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:14
+#: includes/templates/buttons/paypal-checkout-button.php:14
+#: includes/templates/buttons/paypal-sp-checkout-button.php:14
+msgctxt "s2member-admin"
+msgid "Configures Basic Checkout Fields"
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:22
+#: includes/templates/buttons/paypal-checkout-button.php:22
+#: includes/templates/buttons/paypal-sp-checkout-button.php:22
+#: includes/templates/shortcodes/paypal-ccaps-checkout-button-shortcode.php:6
+#: includes/templates/shortcodes/paypal-checkout-button-shortcode.php:6
+#: includes/templates/shortcodes/paypal-sp-checkout-button-shortcode.php:6
+msgctxt "s2member-admin"
+msgid "Description and pricing details here."
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:25
+#: includes/templates/buttons/paypal-checkout-button.php:24
+#: includes/templates/buttons/paypal-sp-checkout-button.php:25
+msgctxt "s2member-admin"
+msgid "Configures s2Member's Unique Invoice ID/Code"
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:27
+#: includes/templates/buttons/paypal-sp-checkout-button.php:27
+msgctxt "s2member-admin"
+msgid "Associates Purchase With A User/Member (when/if applicable)"
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:30
+#: includes/templates/buttons/paypal-checkout-button.php:29
+#: includes/templates/buttons/paypal-sp-checkout-button.php:30
+msgctxt "s2member-admin"
+msgid "Identifies The Customer's IP Address For Tracking"
+msgstr ""
+
+#: includes/templates/buttons/paypal-ccaps-checkout-button.php:33
+#: includes/templates/buttons/paypal-checkout-button.php:45
+#: includes/templates/buttons/paypal-sp-checkout-button.php:33
+msgctxt "s2member-admin"
+msgid "Displays The PayPal Image Button"
+msgstr ""
+
+#: includes/templates/buttons/paypal-checkout-button.php:26
+msgctxt "s2member-admin"
+msgid "Identifies/Updates An Existing User/Member (when/if applicable)"
+msgstr ""
+
+#: includes/templates/buttons/paypal-checkout-button.php:32
+msgctxt "s2member-admin"
+msgid "Controls Modify Behavior At PayPal Checkout"
+msgstr ""
+
+#: includes/templates/buttons/paypal-checkout-button.php:34
+msgctxt "s2member-admin"
+msgid "Customizes Prices, Payments & Billing Cycle"
+msgstr ""
+
+#: includes/templates/errors/ip-restrictions.php:10
+msgctxt "s2member-front"
+msgid "503: Service Temporarily Unavailable"
+msgstr ""
+
+#: includes/templates/errors/ip-restrictions.php:13
+msgctxt "s2member-front"
+msgid "<strong>503: Service Temporarily Unavailable</strong><br />Too many IP addresses accessing one secure area<em>!</em><br />Please contact Support if you need assistance."
+msgstr ""
+
+#: includes/templates/options/paypal-currencies.php:6
+msgctxt "s2member-admin"
+msgid "Currency"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-ccap-terms.php:6
+#: includes/templates/options/paypal-membership-regular-terms.php:43
+msgctxt "s2member-admin"
+msgid "PayPal (Buy Now)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-ccap-terms.php:7
+msgctxt "s2member-admin"
+msgid "One Time (for lifetime access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:6
+#: includes/templates/options/paypal-membership-regular-terms.php:19
+msgctxt "s2member-admin"
+msgid "PayPal® (Subscriptions)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:7
+msgctxt "s2member-admin"
+msgid "Daily (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:8
+msgctxt "s2member-admin"
+msgid "Weekly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:9
+msgctxt "s2member-admin"
+msgid "Bi-Weekly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:10
+msgctxt "s2member-admin"
+msgid "Monthly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:11
+msgctxt "s2member-admin"
+msgid "Bi-Monthly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:12
+msgctxt "s2member-admin"
+msgid "Quarterly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:13
+msgctxt "s2member-admin"
+msgid "Semi-Yearly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:14
+msgctxt "s2member-admin"
+msgid "Yearly (recurring charge, for ongoing access)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:20
+msgctxt "s2member-admin"
+msgid "One Time (for 1 day access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:21
+msgctxt "s2member-admin"
+msgid "One Time (for 2 day access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:22
+msgctxt "s2member-admin"
+msgid "One Time (for 3 day access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:23
+msgctxt "s2member-admin"
+msgid "One Time (for 4 day access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:24
+msgctxt "s2member-admin"
+msgid "One Time (for 5 day access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:25
+msgctxt "s2member-admin"
+msgid "One Time (for 6 day access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:27
+msgctxt "s2member-admin"
+msgid "One Time (for 1 week access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:28
+msgctxt "s2member-admin"
+msgid "One Time (for 2 week access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:29
+msgctxt "s2member-admin"
+msgid "One Time (for 3 week access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:31
+msgctxt "s2member-admin"
+msgid "One Time (for 1 month access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:32
+msgctxt "s2member-admin"
+msgid "One Time (for 2 month access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:33
+msgctxt "s2member-admin"
+msgid "One Time (for 3 month access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:34
+msgctxt "s2member-admin"
+msgid "One Time (for 4 month access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:35
+msgctxt "s2member-admin"
+msgid "One Time (for 5 month access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:36
+msgctxt "s2member-admin"
+msgid "One Time (for 6 month access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:38
+msgctxt "s2member-admin"
+msgid "One Time (for 1 year access, non-recurring)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:44
+msgctxt "s2member-admin"
+msgid "One Time (for 1 day access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:45
+msgctxt "s2member-admin"
+msgid "One Time (for 2 day access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:46
+msgctxt "s2member-admin"
+msgid "One Time (for 3 day access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:47
+msgctxt "s2member-admin"
+msgid "One Time (for 4 day access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:48
+msgctxt "s2member-admin"
+msgid "One Time (for 5 day access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:49
+msgctxt "s2member-admin"
+msgid "One Time (for 6 day access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:51
+msgctxt "s2member-admin"
+msgid "One Time (for 1 week access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:52
+msgctxt "s2member-admin"
+msgid "One Time (for 2 week access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:53
+msgctxt "s2member-admin"
+msgid "One Time (for 3 week access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:55
+msgctxt "s2member-admin"
+msgid "One Time (for 1 month access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:56
+msgctxt "s2member-admin"
+msgid "One Time (for 2 month access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:57
+msgctxt "s2member-admin"
+msgid "One Time (for 3 month access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:58
+msgctxt "s2member-admin"
+msgid "One Time (for 4 month access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:59
+msgctxt "s2member-admin"
+msgid "One Time (for 5 month access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:60
+msgctxt "s2member-admin"
+msgid "One Time (for 6 month access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:62
+msgctxt "s2member-admin"
+msgid "One Time (for 1 year access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:63
+msgctxt "s2member-admin"
+msgid "One Time (for 2 year access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:64
+msgctxt "s2member-admin"
+msgid "One Time (for 3 year access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:65
+msgctxt "s2member-admin"
+msgid "One Time (for 4 year access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:66
+msgctxt "s2member-admin"
+msgid "One Time (for 5 year access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-regular-terms.php:68
+msgctxt "s2member-admin"
+msgid "One Time (for lifetime access, non-recurring, no trial)"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-trial-terms.php:6
+msgctxt "s2member-admin"
+msgid "Days"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-trial-terms.php:7
+msgctxt "s2member-admin"
+msgid "Weeks"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-trial-terms.php:8
+msgctxt "s2member-admin"
+msgid "Months"
+msgstr ""
+
+#: includes/templates/options/paypal-membership-trial-terms.php:9
+msgctxt "s2member-admin"
+msgid "Years"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:6
+msgctxt "s2member-admin"
+msgid "Expires In Hours"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:7
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 2 hours)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:8
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 4 hours)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:9
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 6 hours)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:10
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 8 hours)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:11
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 10 hours)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:12
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 12 hours)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:17
+msgctxt "s2member-admin"
+msgid "Expires In Days"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:18
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 1 day)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:19
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 2 days)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:20
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 3 days)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:21
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 4 days)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:22
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 5 days)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:23
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 6 days)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:28
+msgctxt "s2member-admin"
+msgid "Expires In Weeks"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:29
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 1 week)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:30
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 2 weeks)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:31
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 3 weeks)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:36
+msgctxt "s2member-admin"
+msgid "Expires In Months"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:37
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 1 month)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:38
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 2 months)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:39
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 3 months)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:40
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 6 months)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:45
+msgctxt "s2member-admin"
+msgid "Expires In Years"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:46
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 1 year)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:47
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 2 years)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:48
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 3 years)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:49
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 4 years)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:50
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 5 years)"
+msgstr ""
+
+#: includes/templates/options/paypal-sp-hours.php:51
+msgctxt "s2member-admin"
+msgid "Buy Now (Specific Post/Page, link valid for 50 years)"
+msgstr ""
